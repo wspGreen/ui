@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>D:\Documents\work\arts\ccsUI\UIproject\ui</ProjectDir>
+  <Version>1.6.0.0</Version>
+  <Resources>D:\Documents\work\arts\ccsUI\UIproject\ui\Resources</Resources>
+  <Name>ui</Name>
+  <JsonFileName>ui.json</JsonFileName>
+  <JsonFolder>D:\Documents\work\arts\ccsUI\UIproject\ui\Json</JsonFolder>
+  <JsonList>
+    <string>serverlist.json</string>
+    <string>login.json</string>
+    <string>hero_main.json</string>
+    <string>hero_main_item.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+  <filePath>D:\Documents\work\arts\ccsUI\UIproject\ui\ui.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList />
+  <imagePngList>
+    <string>hero/face_bg.png</string>
+    <string>hero/guo_bk.png</string>
+    <string>hero/name_bk.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>hero_main_item.json</CurrentUIJson>
+</UIProject>
