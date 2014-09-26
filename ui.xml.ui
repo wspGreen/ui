@@ -13,18 +13,14 @@
     <string>hero_main_item.json</string>
   </JsonList>
   <CanvasSize>
-    <Width>960</Width>
-    <Height>640</Height>
+    <Width>200</Width>
+    <Height>200</Height>
   </CanvasSize>
   <filePath>D:\Documents\work\arts\ccsUI\UIproject\ui\ui.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath />
   <imageFileList />
-  <imagePngList>
-    <string>hero/face_bg.png</string>
-    <string>hero/guo_bk.png</string>
-    <string>hero/name_bk.png</string>
-  </imagePngList>
+  <imagePngList />
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>hero_main_item.json</CurrentUIJson>
 </UIProject>
