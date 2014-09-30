@@ -11,6 +11,7 @@
     <string>login.json</string>
     <string>hero_main.json</string>
     <string>hero_main_item.json</string>
+    <string>sel_formation_item.json</string>
   </JsonList>
   <CanvasSize>
     <Width>200</Width>
@@ -20,7 +21,20 @@
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath />
   <imageFileList />
-  <imagePngList />
+  <imagePngList>
+    <string>hero/hero_frame.png</string>
+    <string>hero/fomation/1.png</string>
+    <string>common/btn/small_close_0.png</string>
+    <string>common/btn/small_close_1.png</string>
+    <string>common/btn/red4_0.png</string>
+    <string>common/btn/red4_1.png</string>
+    <string>common/hero_bg_1.png</string>
+    <string>common/hero_bg_2.png</string>
+    <string>hero/face_bg.png</string>
+    <string>common/btn/backbtn.png</string>
+    <string>common/btn/backbtn-disabled.png</string>
+    <string>common/cover_lay.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>hero_main_item.json</CurrentUIJson>
+  <CurrentUIJson>hero_main.json</CurrentUIJson>
 </UIProject>

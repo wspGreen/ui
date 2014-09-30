@@ -16,4 +16,8 @@
     <Project>hero_main_item</Project>
     <GuidesList />
   </GuidesProject>
+  <GuidesProject>
+    <Project>sel_formation_item</Project>
+    <GuidesList />
+  </GuidesProject>
 </ArrayOfGuidesProject>
