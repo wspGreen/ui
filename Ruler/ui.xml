@@ -17,7 +17,15 @@
     <GuidesList />
   </GuidesProject>
   <GuidesProject>
-    <Project>sel_formation_item</Project>
+    <Project>hero_info</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>hero_skillup</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>hero_package</Project>
     <GuidesList />
   </GuidesProject>
 </ArrayOfGuidesProject>

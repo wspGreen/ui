@@ -7,34 +7,38 @@
   <JsonFileName>ui.json</JsonFileName>
   <JsonFolder>D:\Documents\work\arts\ccsUI\UIproject\ui\Json</JsonFolder>
   <JsonList>
-    <string>serverlist.json</string>
-    <string>login.json</string>
+    <string>hero_info.json</string>
     <string>hero_main.json</string>
     <string>hero_main_item.json</string>
-    <string>sel_formation_item.json</string>
+    <string>hero_package.json</string>
+    <string>hero_skillup.json</string>
+    <string>login.json</string>
+    <string>serverlist.json</string>
   </JsonList>
   <CanvasSize>
-    <Width>200</Width>
-    <Height>200</Height>
+    <Width>960</Width>
+    <Height>640</Height>
   </CanvasSize>
   <filePath>D:\Documents\work\arts\ccsUI\UIproject\ui\ui.xml.ui</filePath>
   <ProjectType>UIProject</ProjectType>
   <ResRelativePath />
   <imageFileList />
   <imagePngList>
-    <string>hero/hero_frame.png</string>
-    <string>hero/fomation/1.png</string>
-    <string>common/btn/small_close_0.png</string>
-    <string>common/btn/small_close_1.png</string>
-    <string>common/btn/red4_0.png</string>
-    <string>common/btn/red4_1.png</string>
-    <string>common/hero_bg_1.png</string>
-    <string>common/hero_bg_2.png</string>
-    <string>hero/face_bg.png</string>
+    <string>package/package_equip_bg.png</string>
+    <string>package/equip_stencil.png</string>
+    <string>package/equip_frame_white.png</string>
+    <string>GUI/image.png</string>
+    <string>package/package_detail_bg.png</string>
+    <string>package/detail_bg_2.png</string>
+    <string>common/gold.png</string>
+    <string>package/elitetoggle-s.png</string>
+    <string>package/elitetoggle-ns.png</string>
+    <string>package/herodetail-lvl-bg.png</string>
+    <string>package/pvp_button_confirm_1.png</string>
+    <string>package/pvp_button_confirm_2.png</string>
     <string>common/btn/backbtn.png</string>
     <string>common/btn/backbtn-disabled.png</string>
-    <string>common/cover_lay.png</string>
   </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
-  <CurrentUIJson>hero_main.json</CurrentUIJson>
+  <CurrentUIJson>hero_package.json</CurrentUIJson>
 </UIProject>
